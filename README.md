@@ -37,7 +37,7 @@ I'm passionate about creating AI systems that bridge the digital and physical wo
 
 - **Email:** tahmidalmuntasir@gmail.com
 - **LinkedIn:** www.linkedin.com/in/tahmid-al-muntasir
-- **Website:** mystiroda.github.io
+- **Website:** https://mystiroda.github.io
 
 ## 📊 GitHub Stats
 
